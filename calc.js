@@ -4,7 +4,7 @@ var membershipBaseAmount = {
     adultBase: 48.5,
     doubleAdultBase: 67,
     familyBase: 72,
-    singleParentFamilyBase: 59,
+    singleParentFamilyBase: 58,
     seniorAdultBase: 46,
     seniorFamilyBase: 66,
   }
